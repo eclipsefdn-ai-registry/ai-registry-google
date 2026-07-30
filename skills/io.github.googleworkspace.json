@@ -1,0 +1,8 @@
+{
+  "skillId": "io.github.googleworkspace",
+  "date": "2026-07-29",
+  "source": {
+    "url": "https://github.com/googleworkspace/cli.git",
+    "path": ["skills/*"]
+  }
+}

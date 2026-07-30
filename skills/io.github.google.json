@@ -1,0 +1,8 @@
+{
+  "skillId": "io.github.google",
+  "date": "2026-07-29",
+  "source": {
+    "url": "https://github.com/google/skills.git",
+    "path": ["skills/ads/*", "skills/analytics/*", "skills/cloud/*"]
+  }
+}
