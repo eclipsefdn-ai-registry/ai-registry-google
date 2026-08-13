@@ -1,0 +1,9 @@
+{
+  "serverId": "io.github.googleapis/mcp-toolbox",
+  "date": "2026-08-13",
+  "selfPublished": true,
+  "config": {
+    "command": "npx",
+    "args": ["-y", "@toolbox-sdk/server", "--stdio", "--prebuilt=<database>"]
+  }
+}

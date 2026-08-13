@@ -1,0 +1,12 @@
+{
+  "serverId": "io.github.googlemaps/platform-ai",
+  "date": "2026-08-13",
+  "metadata": {
+    "name": "Google Maps Platform Code Assist",
+    "description": "Grounds AI coding assistants in official, up-to-date Google Maps Platform documentation, code samples, and best practices via retrieval-augmented search."
+  },
+  "selfPublished": true,
+  "config": {
+    "url": "https://mapscodeassist.googleapis.com/mcp"
+  }
+}
