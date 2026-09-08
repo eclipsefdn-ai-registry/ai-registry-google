@@ -7,6 +7,7 @@
   },
   "selfPublished": true,
   "config": {
+    "type": "streamable-http",
     "url": "https://mapscodeassist.googleapis.com/mcp"
   }
 }
