@@ -1,0 +1,13 @@
+{
+  "serverId": "com.googleapis/cloud-asset-inventory",
+  "date": "2026-09-18",
+  "metadata": {
+    "name": "Cloud Asset Inventory",
+    "description": "Google-managed remote MCP server for Cloud Asset Inventory, letting AI agents query and analyze Google Cloud resource inventories."
+  },
+  "selfPublished": true,
+  "config": {
+    "url": "https://cloudasset.googleapis.com/mcp",
+    "type": "streamable-http"
+  }
+}

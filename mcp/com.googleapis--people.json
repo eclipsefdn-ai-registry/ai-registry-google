@@ -1,0 +1,13 @@
+{
+  "serverId": "com.googleapis/people",
+  "date": "2026-09-18",
+  "metadata": {
+    "name": "People API",
+    "description": "Google-managed remote MCP server for the People API, exposing Google Workspace contacts to AI agents."
+  },
+  "selfPublished": true,
+  "config": {
+    "url": "https://people.googleapis.com/mcp/v1",
+    "type": "streamable-http"
+  }
+}

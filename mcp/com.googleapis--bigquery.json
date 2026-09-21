@@ -1,0 +1,13 @@
+{
+  "serverId": "com.googleapis/bigquery",
+  "date": "2026-09-18",
+  "metadata": {
+    "name": "BigQuery",
+    "description": "Google-managed remote MCP server for BigQuery, letting AI agents run queries and inspect datasets/tables directly."
+  },
+  "selfPublished": true,
+  "config": {
+    "url": "https://bigquery.googleapis.com/mcp",
+    "type": "streamable-http"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "serverId": "com.googleapis/bigquery-data-transfer",
+  "date": "2026-09-18",
+  "metadata": {
+    "name": "BigQuery Data Transfer Service",
+    "description": "Google-managed remote MCP server for BigQuery Data Transfer Service, exposing scheduled data transfer configuration to AI agents."
+  },
+  "selfPublished": true,
+  "config": {
+    "url": "https://bigquerydatatransfer.googleapis.com/mcp",
+    "type": "streamable-http"
+  }
+}

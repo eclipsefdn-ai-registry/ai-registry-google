@@ -1,0 +1,13 @@
+{
+  "serverId": "com.googleapis/cloud-monitoring",
+  "date": "2026-09-18",
+  "metadata": {
+    "name": "Cloud Monitoring",
+    "description": "Google-managed remote MCP server for Cloud Monitoring, exposing metrics, alerts, and dashboards to AI agents."
+  },
+  "selfPublished": true,
+  "config": {
+    "url": "https://monitoring.googleapis.com/mcp",
+    "type": "streamable-http"
+  }
+}

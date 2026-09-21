@@ -1,0 +1,13 @@
+{
+  "serverId": "com.googleapis/secops-chronicle",
+  "date": "2026-09-18",
+  "metadata": {
+    "name": "Google SecOps (Chronicle) Remote MCP Server",
+    "description": "Fully managed, enterprise-ready Google-published remote MCP server for Google Security Operations (Chronicle), exposing threat detection, investigation, and hunting capabilities to AI agents. Recommended entry point of the google/mcp-security project over its standalone local servers."
+  },
+  "selfPublished": true,
+  "config": {
+    "url": "https://chronicle.us.rep.googleapis.com/mcp",
+    "type": "streamable-http"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "serverId": "com.googleapis/bigtable",
+  "date": "2026-09-18",
+  "metadata": {
+    "name": "Bigtable",
+    "description": "Google-managed remote MCP server for Cloud Bigtable administration, exposing instance/table management to AI agents."
+  },
+  "selfPublished": true,
+  "config": {
+    "url": "https://bigtableadmin.googleapis.com/mcp",
+    "type": "streamable-http"
+  }
+}

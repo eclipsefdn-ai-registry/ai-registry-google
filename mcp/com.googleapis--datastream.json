@@ -1,0 +1,13 @@
+{
+  "serverId": "com.googleapis/datastream",
+  "date": "2026-09-18",
+  "metadata": {
+    "name": "Datastream",
+    "description": "Google-managed remote MCP server for Datastream, exposing change-data-capture and replication streams to AI agents."
+  },
+  "selfPublished": true,
+  "config": {
+    "url": "https://datastream.googleapis.com/mcp",
+    "type": "streamable-http"
+  }
+}

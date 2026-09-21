@@ -1,0 +1,13 @@
+{
+  "serverId": "com.googleapis/cloud-storage",
+  "date": "2026-09-18",
+  "metadata": {
+    "name": "Cloud Storage",
+    "description": "Google-managed remote MCP server for Cloud Storage, letting AI agents manage buckets and objects."
+  },
+  "selfPublished": true,
+  "config": {
+    "url": "https://storage.googleapis.com/storage/mcp",
+    "type": "streamable-http"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "serverId": "com.googleapis/cloud-sql",
+  "date": "2026-09-18",
+  "metadata": {
+    "name": "Cloud SQL",
+    "description": "Google-managed remote MCP server for Cloud SQL administration, exposing instance/database management to AI agents."
+  },
+  "selfPublished": true,
+  "config": {
+    "url": "https://sqladmin.googleapis.com/mcp",
+    "type": "streamable-http"
+  }
+}

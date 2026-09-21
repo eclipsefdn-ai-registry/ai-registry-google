@@ -1,0 +1,13 @@
+{
+  "serverId": "com.googleapis/alloydb",
+  "date": "2026-09-18",
+  "metadata": {
+    "name": "AlloyDB for PostgreSQL",
+    "description": "Google-managed remote MCP server for AlloyDB for PostgreSQL, exposing database administration and query capabilities to AI agents."
+  },
+  "selfPublished": true,
+  "config": {
+    "url": "https://alloydb.googleapis.com/mcp",
+    "type": "streamable-http"
+  }
+}

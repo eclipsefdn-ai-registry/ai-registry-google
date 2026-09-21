@@ -1,0 +1,13 @@
+{
+  "serverId": "com.googleapis/developer-knowledge",
+  "date": "2026-09-18",
+  "metadata": {
+    "name": "Developer Knowledge API",
+    "description": "Google-managed remote MCP server for the Developer Knowledge API, letting AI agents search and retrieve official Google developer documentation."
+  },
+  "selfPublished": true,
+  "config": {
+    "url": "https://developerknowledge.googleapis.com/mcp",
+    "type": "streamable-http"
+  }
+}

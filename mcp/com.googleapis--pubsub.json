@@ -1,0 +1,13 @@
+{
+  "serverId": "com.googleapis/pubsub",
+  "date": "2026-09-18",
+  "metadata": {
+    "name": "Pub/Sub",
+    "description": "Google-managed remote MCP server for Pub/Sub, letting AI agents manage topics, subscriptions, and messages."
+  },
+  "selfPublished": true,
+  "config": {
+    "url": "https://pubsub.googleapis.com/mcp",
+    "type": "streamable-http"
+  }
+}

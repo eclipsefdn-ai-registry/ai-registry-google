@@ -1,0 +1,13 @@
+{
+  "serverId": "com.googleapis/pay-and-wallet",
+  "date": "2026-09-18",
+  "metadata": {
+    "name": "Google Pay and Wallet",
+    "description": "Google-managed remote MCP server for Google Pay and Wallet, exposing developer APIs for payments and wallet passes to AI agents."
+  },
+  "selfPublished": true,
+  "config": {
+    "url": "https://paydeveloper.googleapis.com/mcp",
+    "type": "streamable-http"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "serverId": "io.github.google/clasp-mcp",
+  "date": "2026-09-18",
+  "metadata": {
+    "name": "clasp MCP Server",
+    "description": "Self-published MCP server bundled in Google's official clasp (Command Line Apps Script Projects) CLI, letting AI agents manage and deploy Google Apps Script projects."
+  },
+  "selfPublished": true,
+  "config": {
+    "command": "npx",
+    "args": [
+      "-y",
+      "@google/clasp",
+      "mcp"
+    ],
+    "type": "stdio"
+  }
+}

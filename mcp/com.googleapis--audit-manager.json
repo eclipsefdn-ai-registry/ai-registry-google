@@ -1,0 +1,13 @@
+{
+  "serverId": "com.googleapis/audit-manager",
+  "date": "2026-09-18",
+  "metadata": {
+    "name": "Audit Manager",
+    "description": "Google-managed remote MCP server for Audit Manager, exposing compliance audit workflows to AI agents."
+  },
+  "selfPublished": true,
+  "config": {
+    "url": "https://auditmanager.us-central1.rep.googleapis.com/mcp",
+    "type": "streamable-http"
+  }
+}

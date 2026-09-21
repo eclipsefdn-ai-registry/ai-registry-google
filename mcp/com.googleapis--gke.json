@@ -1,0 +1,13 @@
+{
+  "serverId": "com.googleapis/gke",
+  "date": "2026-09-18",
+  "metadata": {
+    "name": "GKE",
+    "description": "Google-managed remote MCP server for Google Kubernetes Engine, letting AI agents inspect and manage clusters and workloads."
+  },
+  "selfPublished": true,
+  "config": {
+    "url": "https://container.googleapis.com/mcp",
+    "type": "streamable-http"
+  }
+}

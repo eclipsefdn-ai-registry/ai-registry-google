@@ -1,0 +1,13 @@
+{
+  "serverId": "com.googleapis/apigee-api-hub",
+  "date": "2026-09-18",
+  "metadata": {
+    "name": "Apigee API hub",
+    "description": "Google-managed remote MCP server for Apigee API hub, exposing the organization's API catalog to AI agents."
+  },
+  "selfPublished": true,
+  "config": {
+    "url": "https://apihub.googleapis.com/mcp",
+    "type": "streamable-http"
+  }
+}

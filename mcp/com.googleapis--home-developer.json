@@ -1,0 +1,13 @@
+{
+  "serverId": "com.googleapis/home-developer",
+  "date": "2026-09-18",
+  "metadata": {
+    "name": "Google Home Developer",
+    "description": "Google-managed remote MCP server for Google Home Developer, exposing Google Home device/automation APIs to AI agents."
+  },
+  "selfPublished": true,
+  "config": {
+    "url": "https://homedevelopers.googleapis.com/mcp",
+    "type": "streamable-http"
+  }
+}

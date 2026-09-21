@@ -1,0 +1,13 @@
+{
+  "serverId": "com.googleapis/maps-grounding-lite",
+  "date": "2026-09-18",
+  "metadata": {
+    "name": "Maps Grounding Lite",
+    "description": "Google-managed remote MCP server for Maps Grounding Lite, exposing lightweight Google Maps Platform grounding data to AI agents."
+  },
+  "selfPublished": true,
+  "config": {
+    "url": "https://mapstools.googleapis.com/mcp",
+    "type": "streamable-http"
+  }
+}

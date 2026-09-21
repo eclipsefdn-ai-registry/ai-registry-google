@@ -1,0 +1,13 @@
+{
+  "serverId": "com.googleapis/calendar",
+  "date": "2026-09-18",
+  "metadata": {
+    "name": "Google Calendar",
+    "description": "Google-managed remote MCP server for Google Calendar, letting AI agents manage events and scheduling."
+  },
+  "selfPublished": true,
+  "config": {
+    "url": "https://calendarmcp.googleapis.com/mcp/v1",
+    "type": "streamable-http"
+  }
+}

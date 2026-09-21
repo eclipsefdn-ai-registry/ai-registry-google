@@ -1,0 +1,13 @@
+{
+  "serverId": "com.googleapis/stitch",
+  "date": "2026-09-18",
+  "metadata": {
+    "name": "Stitch",
+    "description": "Google-managed remote MCP server for Stitch, exposing Google's AI-assisted UI design tool to AI agents."
+  },
+  "selfPublished": true,
+  "config": {
+    "url": "https://stitch.googleapis.com/mcp",
+    "type": "streamable-http"
+  }
+}
