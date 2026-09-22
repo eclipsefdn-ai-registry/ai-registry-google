@@ -1,0 +1,13 @@
+{
+  "serverId": "com.googleapis/agent-registry",
+  "date": "2026-09-18",
+  "metadata": {
+    "name": "Agent Registry",
+    "description": "Google-managed remote MCP server for Agent Registry, letting AI agents discover and bind to registered agents on Google Cloud."
+  },
+  "selfPublished": true,
+  "config": {
+    "url": "https://agentregistry.googleapis.com/mcp",
+    "type": "streamable-http"
+  }
+}

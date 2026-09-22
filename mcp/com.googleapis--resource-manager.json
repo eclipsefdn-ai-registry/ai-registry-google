@@ -1,0 +1,13 @@
+{
+  "serverId": "com.googleapis/resource-manager",
+  "date": "2026-09-18",
+  "metadata": {
+    "name": "Resource Manager",
+    "description": "Google-managed remote MCP server for Resource Manager, exposing project/folder/organization hierarchy management to AI agents."
+  },
+  "selfPublished": true,
+  "config": {
+    "url": "https://cloudresourcemanager.googleapis.com/mcp",
+    "type": "streamable-http"
+  }
+}

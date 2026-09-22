@@ -1,0 +1,13 @@
+{
+  "serverId": "com.googleapis/cloud-billing",
+  "date": "2026-09-18",
+  "metadata": {
+    "name": "Cloud Billing",
+    "description": "Google-managed remote MCP server for Cloud Billing, exposing billing account and cost information to AI agents."
+  },
+  "selfPublished": true,
+  "config": {
+    "url": "https://cloudbilling.googleapis.com/mcp",
+    "type": "streamable-http"
+  }
+}

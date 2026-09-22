@@ -1,0 +1,13 @@
+{
+  "serverId": "com.googleapis/firestore",
+  "date": "2026-09-18",
+  "metadata": {
+    "name": "Firestore",
+    "description": "Google-managed remote MCP server for Firestore, letting AI agents query and manage documents/collections."
+  },
+  "selfPublished": true,
+  "config": {
+    "url": "https://firestore.googleapis.com/mcp",
+    "type": "streamable-http"
+  }
+}

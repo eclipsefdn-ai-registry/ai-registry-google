@@ -1,0 +1,13 @@
+{
+  "serverId": "com.googleapis/cloud-support",
+  "date": "2026-09-18",
+  "metadata": {
+    "name": "Cloud Support API",
+    "description": "Google-managed remote MCP server for the Cloud Support API, letting AI agents create and manage support cases."
+  },
+  "selfPublished": true,
+  "config": {
+    "url": "https://cloudsupport.googleapis.com/mcp",
+    "type": "streamable-http"
+  }
+}

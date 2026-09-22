@@ -1,0 +1,13 @@
+{
+  "serverId": "com.googleapis/cloud-quotas",
+  "date": "2026-09-18",
+  "metadata": {
+    "name": "Cloud Quotas",
+    "description": "Google-managed remote MCP server for Cloud Quotas, letting AI agents inspect and request quota adjustments."
+  },
+  "selfPublished": true,
+  "config": {
+    "url": "https://cloudquotas.googleapis.com/mcp",
+    "type": "streamable-http"
+  }
+}

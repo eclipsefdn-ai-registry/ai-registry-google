@@ -1,0 +1,13 @@
+{
+  "serverId": "com.googleapis/cloud-logging",
+  "date": "2026-09-18",
+  "metadata": {
+    "name": "Cloud Logging",
+    "description": "Google-managed remote MCP server for Cloud Logging, letting AI agents search and analyze logs."
+  },
+  "selfPublished": true,
+  "config": {
+    "url": "https://logging.googleapis.com/mcp",
+    "type": "streamable-http"
+  }
+}

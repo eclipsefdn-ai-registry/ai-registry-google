@@ -1,0 +1,13 @@
+{
+  "serverId": "com.googleapis/design",
+  "date": "2026-09-18",
+  "metadata": {
+    "name": "Design MCP",
+    "description": "Google-managed remote MCP server for Design MCP, exposing Google design tooling/assets to AI agents."
+  },
+  "selfPublished": true,
+  "config": {
+    "url": "https://design.googleapis.com/mcp",
+    "type": "streamable-http"
+  }
+}

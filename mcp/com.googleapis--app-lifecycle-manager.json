@@ -1,0 +1,13 @@
+{
+  "serverId": "com.googleapis/app-lifecycle-manager",
+  "date": "2026-09-18",
+  "metadata": {
+    "name": "App Lifecycle Manager",
+    "description": "Google-managed remote MCP server for App Lifecycle Manager (SaaS Service Management), for managing SaaS application lifecycles from AI agents."
+  },
+  "selfPublished": true,
+  "config": {
+    "url": "https://saasservicemgmt.googleapis.com/mcp",
+    "type": "streamable-http"
+  }
+}

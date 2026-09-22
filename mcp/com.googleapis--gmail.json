@@ -1,0 +1,13 @@
+{
+  "serverId": "com.googleapis/gmail",
+  "date": "2026-09-18",
+  "metadata": {
+    "name": "Gmail",
+    "description": "Google-managed remote MCP server for Gmail, letting AI agents read, search, and send email."
+  },
+  "selfPublished": true,
+  "config": {
+    "url": "https://gmailmcp.googleapis.com/mcp/v1",
+    "type": "streamable-http"
+  }
+}

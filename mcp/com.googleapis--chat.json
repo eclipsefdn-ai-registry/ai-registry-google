@@ -1,0 +1,13 @@
+{
+  "serverId": "com.googleapis/chat",
+  "date": "2026-09-18",
+  "metadata": {
+    "name": "Google Chat",
+    "description": "Google-managed remote MCP server for Google Chat, letting AI agents read and send Chat messages."
+  },
+  "selfPublished": true,
+  "config": {
+    "url": "https://chatmcp.googleapis.com/mcp/v1",
+    "type": "streamable-http"
+  }
+}

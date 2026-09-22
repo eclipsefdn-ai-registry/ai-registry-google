@@ -1,0 +1,13 @@
+{
+  "serverId": "com.googleapis/memorystore",
+  "date": "2026-09-18",
+  "metadata": {
+    "name": "Memorystore",
+    "description": "Google-managed remote MCP server for Memorystore, exposing managed Redis instance administration to AI agents."
+  },
+  "selfPublished": true,
+  "config": {
+    "url": "https://redis.googleapis.com/mcp",
+    "type": "streamable-http"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "serverId": "com.googleapis/drive",
+  "date": "2026-09-18",
+  "metadata": {
+    "name": "Google Drive",
+    "description": "Google-managed remote MCP server for Google Drive, letting AI agents search, read, and manage Drive files."
+  },
+  "selfPublished": true,
+  "config": {
+    "url": "https://drivemcp.googleapis.com/mcp/v1",
+    "type": "streamable-http"
+  }
+}

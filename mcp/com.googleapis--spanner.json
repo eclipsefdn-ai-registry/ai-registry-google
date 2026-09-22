@@ -1,0 +1,13 @@
+{
+  "serverId": "com.googleapis/spanner",
+  "date": "2026-09-18",
+  "metadata": {
+    "name": "Spanner",
+    "description": "Google-managed remote MCP server for Spanner, letting AI agents query and manage globally distributed databases."
+  },
+  "selfPublished": true,
+  "config": {
+    "url": "https://spanner.googleapis.com/mcp",
+    "type": "streamable-http"
+  }
+}

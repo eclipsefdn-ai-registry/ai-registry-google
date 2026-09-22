@@ -1,0 +1,13 @@
+{
+  "serverId": "com.googleapis/cloud-run",
+  "date": "2026-09-18",
+  "metadata": {
+    "name": "Cloud Run",
+    "description": "Google-managed remote MCP server for Cloud Run, letting AI agents deploy and manage serverless services."
+  },
+  "selfPublished": true,
+  "config": {
+    "url": "https://run.googleapis.com/mcp",
+    "type": "streamable-http"
+  }
+}

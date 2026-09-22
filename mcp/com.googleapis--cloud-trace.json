@@ -1,0 +1,13 @@
+{
+  "serverId": "com.googleapis/cloud-trace",
+  "date": "2026-09-18",
+  "metadata": {
+    "name": "Cloud Trace",
+    "description": "Google-managed remote MCP server for Cloud Trace, exposing distributed tracing data to AI agents."
+  },
+  "selfPublished": true,
+  "config": {
+    "url": "https://cloudtrace.googleapis.com/mcp",
+    "type": "streamable-http"
+  }
+}

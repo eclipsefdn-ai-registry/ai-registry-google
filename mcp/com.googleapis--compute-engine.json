@@ -1,0 +1,13 @@
+{
+  "serverId": "com.googleapis/compute-engine",
+  "date": "2026-09-18",
+  "metadata": {
+    "name": "Compute Engine",
+    "description": "Google-managed remote MCP server for Compute Engine, letting AI agents manage VM instances and related resources."
+  },
+  "selfPublished": true,
+  "config": {
+    "url": "https://compute.googleapis.com/mcp",
+    "type": "streamable-http"
+  }
+}

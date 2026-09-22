@@ -1,0 +1,13 @@
+{
+  "serverId": "com.googleapis/iam",
+  "date": "2026-09-18",
+  "metadata": {
+    "name": "IAM",
+    "description": "Google-managed remote MCP server for Cloud IAM, exposing identity and access management operations to AI agents."
+  },
+  "selfPublished": true,
+  "config": {
+    "url": "https://iam.googleapis.com/mcp",
+    "type": "streamable-http"
+  }
+}

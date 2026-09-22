@@ -1,0 +1,13 @@
+{
+  "serverId": "com.googleapis/backup-and-dr",
+  "date": "2026-09-18",
+  "metadata": {
+    "name": "Backup and DR Service",
+    "description": "Google-managed remote MCP server for Backup and DR Service, exposing backup and disaster-recovery operations to AI agents."
+  },
+  "selfPublished": true,
+  "config": {
+    "url": "https://backupdr.googleapis.com/mcp",
+    "type": "streamable-http"
+  }
+}

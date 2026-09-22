@@ -1,0 +1,13 @@
+{
+  "serverId": "com.googleapis/dataform",
+  "date": "2026-09-18",
+  "metadata": {
+    "name": "Dataform",
+    "description": "Google-managed remote MCP server for Dataform, exposing SQL workflow development and orchestration to AI agents."
+  },
+  "selfPublished": true,
+  "config": {
+    "url": "https://dataform.googleapis.com/mcp",
+    "type": "streamable-http"
+  }
+}
