@@ -1,0 +1,13 @@
+{
+  "serverId": "com.googleapis/service-health",
+  "date": "2026-10-02",
+  "metadata": {
+    "name": "Personalized Service Health",
+    "description": "Google-managed remote MCP server for Personalized Service Health, letting AI agents check Google Cloud incidents affecting a specific project."
+  },
+  "selfPublished": true,
+  "config": {
+    "url": "https://servicehealth.googleapis.com/mcp",
+    "type": "streamable-http"
+  }
+}

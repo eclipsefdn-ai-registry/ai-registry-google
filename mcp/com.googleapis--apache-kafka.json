@@ -1,0 +1,13 @@
+{
+  "serverId": "com.googleapis/apache-kafka",
+  "date": "2026-10-02",
+  "metadata": {
+    "name": "Managed Service for Apache Kafka",
+    "description": "Google-managed remote MCP server for Google Cloud Managed Service for Apache Kafka, letting AI agents inspect and manage Kafka clusters and topics."
+  },
+  "selfPublished": true,
+  "config": {
+    "url": "https://managedkafka.googleapis.com/mcp",
+    "type": "streamable-http"
+  }
+}

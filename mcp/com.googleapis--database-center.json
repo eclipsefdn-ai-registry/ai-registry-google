@@ -1,0 +1,13 @@
+{
+  "serverId": "com.googleapis/database-center",
+  "date": "2026-10-02",
+  "metadata": {
+    "name": "Database Center",
+    "description": "Google-managed remote MCP server for Database Center, letting AI agents review the health, inventory, and recommendations of a project's databases."
+  },
+  "selfPublished": true,
+  "config": {
+    "url": "https://databasecenter.googleapis.com/mcp",
+    "type": "streamable-http"
+  }
+}

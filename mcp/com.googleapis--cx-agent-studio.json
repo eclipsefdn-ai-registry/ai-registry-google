@@ -1,0 +1,13 @@
+{
+  "serverId": "com.googleapis/cx-agent-studio",
+  "date": "2026-10-02",
+  "metadata": {
+    "name": "Customer Experience Agent Studio",
+    "description": "Google-managed remote MCP server for Customer Experience (CX) Agent Studio, letting AI agents build and inspect conversational agents."
+  },
+  "selfPublished": true,
+  "config": {
+    "url": "https://ces.us.rep.googleapis.com/mcp",
+    "type": "streamable-http"
+  }
+}

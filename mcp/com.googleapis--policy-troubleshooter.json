@@ -1,0 +1,13 @@
+{
+  "serverId": "com.googleapis/policy-troubleshooter",
+  "date": "2026-10-02",
+  "metadata": {
+    "name": "Policy Troubleshooter",
+    "description": "Google-managed remote MCP server for Policy Troubleshooter, letting AI agents explain why a principal does or does not have a given IAM permission."
+  },
+  "selfPublished": true,
+  "config": {
+    "url": "https://policytroubleshooter.googleapis.com/mcp",
+    "type": "streamable-http"
+  }
+}

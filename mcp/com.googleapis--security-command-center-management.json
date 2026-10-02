@@ -1,0 +1,13 @@
+{
+  "serverId": "com.googleapis/security-command-center-management",
+  "date": "2026-10-02",
+  "metadata": {
+    "name": "Security Command Center Management",
+    "description": "Google-managed remote MCP server for Security Command Center Management, exposing its manage-services toolset so AI agents can configure SCC services. Labelled Preview in Google's MCP catalog."
+  },
+  "selfPublished": true,
+  "config": {
+    "url": "https://securitycentermanagement.googleapis.com/mcp/manage-services",
+    "type": "streamable-http"
+  }
+}

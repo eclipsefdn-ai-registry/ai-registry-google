@@ -1,0 +1,8 @@
+{
+  "skillId": "io.github.google-mcp-security",
+  "date": "2026-10-02",
+  "source": {
+    "url": "https://github.com/google/mcp-security.git",
+    "path": ["extensions/google-secops/skills/*"]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "serverId": "com.googleapis/agent-search",
+  "date": "2026-10-02",
+  "metadata": {
+    "name": "Agent Search",
+    "description": "Google-managed remote MCP server for Agent Search (Discovery Engine), letting AI agents query enterprise search and discovery data stores."
+  },
+  "selfPublished": true,
+  "config": {
+    "url": "https://discoveryengine.googleapis.com/mcp",
+    "type": "streamable-http"
+  }
+}

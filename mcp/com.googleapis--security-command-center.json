@@ -1,0 +1,13 @@
+{
+  "serverId": "com.googleapis/security-command-center",
+  "date": "2026-10-02",
+  "metadata": {
+    "name": "Security Command Center",
+    "description": "Google-managed remote MCP server for Security Command Center, exposing its investigate toolset so AI agents can examine security findings. Labelled Preview in Google's MCP catalog."
+  },
+  "selfPublished": true,
+  "config": {
+    "url": "https://securitycenter.googleapis.com/mcp/investigate",
+    "type": "streamable-http"
+  }
+}

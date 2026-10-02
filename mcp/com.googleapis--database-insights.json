@@ -1,0 +1,13 @@
+{
+  "serverId": "com.googleapis/database-insights",
+  "date": "2026-10-02",
+  "metadata": {
+    "name": "Database Insights",
+    "description": "Google-managed remote MCP server for Database Insights, letting AI agents analyze database query performance and workload health."
+  },
+  "selfPublished": true,
+  "config": {
+    "url": "https://databaseinsights.googleapis.com/mcp",
+    "type": "streamable-http"
+  }
+}
