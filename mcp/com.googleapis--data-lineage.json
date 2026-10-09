@@ -1,0 +1,13 @@
+{
+  "serverId": "com.googleapis/data-lineage",
+  "date": "2026-10-02",
+  "metadata": {
+    "name": "Data lineage",
+    "description": "Google-managed remote MCP server for Dataplex data lineage, letting AI agents trace how data flows between Google Cloud assets. Labelled Preview in Google's MCP catalog; this approval uses the global endpoint."
+  },
+  "selfPublished": true,
+  "config": {
+    "url": "https://datalineage.googleapis.com/mcp",
+    "type": "streamable-http"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "serverId": "com.googleapis/filestore",
+  "date": "2026-10-02",
+  "metadata": {
+    "name": "Filestore",
+    "description": "Google-managed remote MCP server for Filestore, letting AI agents inspect and manage managed NFS file shares."
+  },
+  "selfPublished": true,
+  "config": {
+    "url": "https://file.googleapis.com/mcp",
+    "type": "streamable-http"
+  }
+}

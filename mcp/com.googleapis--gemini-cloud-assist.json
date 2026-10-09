@@ -1,0 +1,13 @@
+{
+  "serverId": "com.googleapis/gemini-cloud-assist",
+  "date": "2026-10-02",
+  "metadata": {
+    "name": "Gemini Cloud Assist",
+    "description": "Google-managed remote MCP server for Gemini Cloud Assist, letting AI agents use its Google Cloud design, troubleshooting, and optimization assistance. Labelled Preview in Google's MCP catalog."
+  },
+  "selfPublished": true,
+  "config": {
+    "url": "https://geminicloudassist.googleapis.com/mcp",
+    "type": "streamable-http"
+  }
+}

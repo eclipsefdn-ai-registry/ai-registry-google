@@ -1,0 +1,13 @@
+{
+  "serverId": "com.googleapis/oracle-database",
+  "date": "2026-10-02",
+  "metadata": {
+    "name": "Oracle Database@Google Cloud",
+    "description": "Google-managed remote MCP server for Oracle Database@Google Cloud, letting AI agents inspect and manage Oracle Exadata and Autonomous Database resources. Labelled Preview in Google's MCP catalog."
+  },
+  "selfPublished": true,
+  "config": {
+    "url": "https://oracledatabase.googleapis.com/mcp",
+    "type": "streamable-http"
+  }
+}

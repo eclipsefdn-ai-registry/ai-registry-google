@@ -1,0 +1,13 @@
+{
+  "serverId": "com.googleapis/apache-spark",
+  "date": "2026-10-02",
+  "metadata": {
+    "name": "Managed Service for Apache Spark",
+    "description": "Google-managed remote MCP server for Google Cloud Managed Service for Apache Spark (Dataproc), letting AI agents manage and run Spark batches and sessions."
+  },
+  "selfPublished": true,
+  "config": {
+    "url": "https://dataproc.googleapis.com/mcp",
+    "type": "streamable-http"
+  }
+}

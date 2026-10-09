@@ -1,0 +1,13 @@
+{
+  "serverId": "com.googleapis/database-migration-service",
+  "date": "2026-10-02",
+  "metadata": {
+    "name": "Database Migration Service",
+    "description": "Google-managed remote MCP server for Database Migration Service, letting AI agents set up and monitor database migration jobs. Labelled Preview in Google's MCP catalog."
+  },
+  "selfPublished": true,
+  "config": {
+    "url": "https://datamigration.googleapis.com/mcp",
+    "type": "streamable-http"
+  }
+}

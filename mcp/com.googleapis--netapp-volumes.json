@@ -1,0 +1,13 @@
+{
+  "serverId": "com.googleapis/netapp-volumes",
+  "date": "2026-10-02",
+  "metadata": {
+    "name": "Google Cloud NetApp Volumes",
+    "description": "Google-managed remote MCP server for Google Cloud NetApp Volumes, letting AI agents inspect and manage NetApp storage pools and volumes."
+  },
+  "selfPublished": true,
+  "config": {
+    "url": "https://netapp.googleapis.com/mcp",
+    "type": "streamable-http"
+  }
+}

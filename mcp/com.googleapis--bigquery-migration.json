@@ -1,0 +1,13 @@
+{
+  "serverId": "com.googleapis/bigquery-migration",
+  "date": "2026-10-02",
+  "metadata": {
+    "name": "BigQuery Migration Service",
+    "description": "Google-managed remote MCP server for BigQuery Migration Service, letting AI agents assess and translate workloads migrating to BigQuery."
+  },
+  "selfPublished": true,
+  "config": {
+    "url": "https://bigquerymigration.googleapis.com/mcp",
+    "type": "streamable-http"
+  }
+}

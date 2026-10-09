@@ -1,0 +1,13 @@
+{
+  "serverId": "com.googleapis/gcloud-cli",
+  "date": "2026-10-02",
+  "metadata": {
+    "name": "Google Cloud CLI",
+    "description": "Google-managed remote MCP server for the Google Cloud CLI, letting AI agents discover and compose gcloud commands. Labelled Preview in Google's MCP catalog."
+  },
+  "selfPublished": true,
+  "config": {
+    "url": "https://cloudcli.googleapis.com/mcp",
+    "type": "streamable-http"
+  }
+}

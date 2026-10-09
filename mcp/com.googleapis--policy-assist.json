@@ -1,0 +1,13 @@
+{
+  "serverId": "com.googleapis/policy-assist",
+  "date": "2026-10-02",
+  "metadata": {
+    "name": "Policy Assist",
+    "description": "Google-managed remote MCP server for Policy Assist, letting AI agents author and review Google Cloud policy configurations. Labelled Preview in Google's MCP catalog."
+  },
+  "selfPublished": true,
+  "config": {
+    "url": "https://policyassist.googleapis.com/mcp",
+    "type": "streamable-http"
+  }
+}
