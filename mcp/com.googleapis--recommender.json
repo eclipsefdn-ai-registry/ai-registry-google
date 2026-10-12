@@ -1,0 +1,13 @@
+{
+  "serverId": "com.googleapis/recommender",
+  "date": "2026-10-02",
+  "metadata": {
+    "name": "Recommender",
+    "description": "Google-managed remote MCP server for Recommender, letting AI agents retrieve Google Cloud cost, security, and performance recommendations."
+  },
+  "selfPublished": true,
+  "config": {
+    "url": "https://recommender.googleapis.com/mcp",
+    "type": "streamable-http"
+  }
+}

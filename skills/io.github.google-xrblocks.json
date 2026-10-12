@@ -1,0 +1,11 @@
+{
+  "skillId": "io.github.google-xrblocks",
+  "date": "2026-10-09",
+  "source": {
+    "url": "https://github.com/google/xrblocks.git",
+    "path": [
+      "skills/xb-anchors",
+      "skills/xb-debug-app"
+    ]
+  }
+}

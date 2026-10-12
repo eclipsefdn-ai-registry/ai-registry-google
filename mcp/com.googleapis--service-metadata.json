@@ -1,0 +1,13 @@
+{
+  "serverId": "com.googleapis/service-metadata",
+  "date": "2026-10-09",
+  "metadata": {
+    "name": "Service Metadata API",
+    "description": "Google-managed remote MCP server for the Google Cloud Service Metadata API, letting AI agents look up metadata about Google Cloud services and their APIs."
+  },
+  "selfPublished": true,
+  "config": {
+    "url": "https://cloud.googleapis.com/mcp",
+    "type": "streamable-http"
+  }
+}

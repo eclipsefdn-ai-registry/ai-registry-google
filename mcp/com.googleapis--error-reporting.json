@@ -1,0 +1,13 @@
+{
+  "serverId": "com.googleapis/error-reporting",
+  "date": "2026-10-02",
+  "metadata": {
+    "name": "Error Reporting",
+    "description": "Google-managed remote MCP server for Error Reporting, letting AI agents inspect grouped application errors and their stack traces."
+  },
+  "selfPublished": true,
+  "config": {
+    "url": "https://clouderrorreporting.googleapis.com/mcp",
+    "type": "streamable-http"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "skillId": "io.github.google-mantis",
+  "date": "2026-10-09",
+  "source": {
+    "url": "https://github.com/google/mantis.git",
+    "path": [
+      "mantis-advise",
+      "mantis-architecture",
+      "mantis-calibrate",
+      "mantis-critic",
+      "mantis-dedupe",
+      "mantis-history",
+      "mantis-patch",
+      "mantis-plan",
+      "mantis-reflect",
+      "mantis-report",
+      "mantis-reproduce",
+      "mantis-researcher",
+      "mantis-structural-index",
+      "mantis-summarize",
+      "mantis-threat-model"
+    ]
+  }
+}

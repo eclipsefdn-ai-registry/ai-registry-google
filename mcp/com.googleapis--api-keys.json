@@ -1,0 +1,13 @@
+{
+  "serverId": "com.googleapis/api-keys",
+  "date": "2026-10-02",
+  "metadata": {
+    "name": "API keys",
+    "description": "Google-managed remote MCP server for Google Cloud API keys, letting AI agents inspect and manage API key resources. Labelled Preview in Google's MCP catalog."
+  },
+  "selfPublished": true,
+  "config": {
+    "url": "https://apikeys.googleapis.com/mcp",
+    "type": "streamable-http"
+  }
+}

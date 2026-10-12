@@ -1,0 +1,13 @@
+{
+  "serverId": "com.googleapis/firebase-sql-connect",
+  "date": "2026-10-02",
+  "metadata": {
+    "name": "Firebase SQL Connect",
+    "description": "Google-managed remote MCP server for Firebase SQL Connect (Firebase Data Connect), letting AI agents work with its PostgreSQL-backed schemas and queries. Labelled Preview in Google's MCP catalog."
+  },
+  "selfPublished": true,
+  "config": {
+    "url": "https://firebasedataconnect.googleapis.com/mcp",
+    "type": "streamable-http"
+  }
+}

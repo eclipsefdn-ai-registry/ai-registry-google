@@ -1,0 +1,13 @@
+{
+  "serverId": "com.googleapis/knowledge-catalog",
+  "date": "2026-10-02",
+  "metadata": {
+    "name": "Knowledge Catalog",
+    "description": "Google-managed remote MCP server for Knowledge Catalog (formerly Dataplex), letting AI agents discover, govern, and inspect data and AI artifacts."
+  },
+  "selfPublished": true,
+  "config": {
+    "url": "https://dataplex.googleapis.com/mcp",
+    "type": "streamable-http"
+  }
+}

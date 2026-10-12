@@ -1,0 +1,13 @@
+{
+  "serverId": "com.googleapis/network-intelligence-center",
+  "date": "2026-10-02",
+  "metadata": {
+    "name": "Network Intelligence Center",
+    "description": "Google-managed remote MCP server for Network Intelligence Center, letting AI agents run connectivity tests and diagnose network reachability."
+  },
+  "selfPublished": true,
+  "config": {
+    "url": "https://networkmanagement.googleapis.com/mcp",
+    "type": "streamable-http"
+  }
+}

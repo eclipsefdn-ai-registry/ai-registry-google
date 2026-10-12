@@ -1,0 +1,13 @@
+{
+  "serverId": "com.googleapis/cloud-location-finder",
+  "date": "2026-10-02",
+  "metadata": {
+    "name": "Cloud Location Finder",
+    "description": "Google-managed remote MCP server for Cloud Location Finder, letting AI agents look up cloud regions and their attributes. Labelled Preview in Google's MCP catalog."
+  },
+  "selfPublished": true,
+  "config": {
+    "url": "https://cloudlocationfinder.googleapis.com/mcp",
+    "type": "streamable-http"
+  }
+}

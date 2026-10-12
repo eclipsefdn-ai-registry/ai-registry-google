@@ -1,0 +1,13 @@
+{
+  "serverId": "com.googleapis/org-policy",
+  "date": "2026-10-02",
+  "metadata": {
+    "name": "Organization Policy Service",
+    "description": "Google-managed remote MCP server for Organization Policy Service, letting AI agents inspect and evaluate organization policy constraints."
+  },
+  "selfPublished": true,
+  "config": {
+    "url": "https://orgpolicy.googleapis.com/mcp",
+    "type": "streamable-http"
+  }
+}

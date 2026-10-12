@@ -1,0 +1,13 @@
+{
+  "serverId": "com.googleapis/home",
+  "date": "2026-10-02",
+  "metadata": {
+    "name": "Google Home",
+    "description": "Google-managed remote MCP server for Google Home, letting AI agents query and control Home devices and automations. Labelled Early Access in Google's MCP catalog."
+  },
+  "selfPublished": true,
+  "config": {
+    "url": "https://home.googleapis.com/mcp",
+    "type": "streamable-http"
+  }
+}

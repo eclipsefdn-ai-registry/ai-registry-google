@@ -1,0 +1,13 @@
+{
+  "serverId": "com.googleapis/cloud-product-registry",
+  "date": "2026-10-02",
+  "metadata": {
+    "name": "Cloud Product Registry",
+    "description": "Google-managed remote MCP server for Cloud Product Registry, letting AI agents look up Google Cloud product and service metadata."
+  },
+  "selfPublished": true,
+  "config": {
+    "url": "https://cloudproductregistry.googleapis.com/mcp",
+    "type": "streamable-http"
+  }
+}

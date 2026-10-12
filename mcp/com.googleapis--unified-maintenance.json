@@ -1,0 +1,13 @@
+{
+  "serverId": "com.googleapis/unified-maintenance",
+  "date": "2026-10-02",
+  "metadata": {
+    "name": "Unified Maintenance",
+    "description": "Google-managed remote MCP server for Unified Maintenance, letting AI agents review and schedule maintenance across Google Cloud resources. Labelled Preview in Google's MCP catalog."
+  },
+  "selfPublished": true,
+  "config": {
+    "url": "https://maintenance.googleapis.com/mcp",
+    "type": "streamable-http"
+  }
+}

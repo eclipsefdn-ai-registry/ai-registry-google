@@ -1,0 +1,11 @@
+{
+  "skillId": "io.github.google-adk-python",
+  "date": "2026-10-02",
+  "source": {
+    "url": "https://github.com/google/adk-python.git",
+    "path": [
+      "src/google/adk/integrations/bigquery/skills/bigquery-ai-ml",
+      "src/google/adk/integrations/bigquery/skills/bigquery-graph"
+    ]
+  }
+}

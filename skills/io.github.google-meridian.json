@@ -1,0 +1,8 @@
+{
+  "skillId": "io.github.google-meridian",
+  "date": "2026-10-02",
+  "source": {
+    "url": "https://github.com/google/meridian.git",
+    "path": ["skills/*"]
+  }
+}

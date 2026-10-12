@@ -1,0 +1,8 @@
+{
+  "skillId": "io.github.google-langextract",
+  "date": "2026-10-09",
+  "source": {
+    "url": "https://github.com/google/langextract.git",
+    "path": "skills/langextract-usage"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "serverId": "com.googleapis/app-topology",
+  "date": "2026-10-02",
+  "metadata": {
+    "name": "App Topology",
+    "description": "Google-managed remote MCP server for App Topology, letting AI agents inspect how an application's Google Cloud resources are connected."
+  },
+  "selfPublished": true,
+  "config": {
+    "url": "https://apptopology.googleapis.com/mcp",
+    "type": "streamable-http"
+  }
+}
