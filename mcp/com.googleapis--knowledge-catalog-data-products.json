@@ -1,0 +1,13 @@
+{
+  "serverId": "com.googleapis/knowledge-catalog-data-products",
+  "date": "2026-10-16",
+  "metadata": {
+    "name": "Knowledge Catalog Data Products",
+    "description": "Google-managed remote MCP server exposing Knowledge Catalog's data-products toolset, letting AI agents search entries and create, inspect and update data products and data assets."
+  },
+  "selfPublished": true,
+  "config": {
+    "url": "https://dataplex.googleapis.com/mcp/data-products",
+    "type": "streamable-http"
+  }
+}

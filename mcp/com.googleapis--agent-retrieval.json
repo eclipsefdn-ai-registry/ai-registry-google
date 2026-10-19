@@ -1,0 +1,13 @@
+{
+  "serverId": "com.googleapis/agent-retrieval",
+  "date": "2026-10-16",
+  "metadata": {
+    "name": "Agent Retrieval",
+    "description": "Google-managed remote MCP server for Agent Retrieval (Vector Search), letting AI agents inspect collections and indexes and search, query and aggregate data objects."
+  },
+  "selfPublished": true,
+  "config": {
+    "url": "https://vectorsearch.googleapis.com/mcp",
+    "type": "streamable-http"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "skillId": "io.github.google-android-cuttlefish",
+  "date": "2026-10-16",
+  "source": {
+    "url": "https://github.com/google/android-cuttlefish.git",
+    "path": "skills/podcvd"
+  }
+}
