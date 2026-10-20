@@ -1,0 +1,11 @@
+{
+  "skillId": "io.github.google-skills-lint-dart",
+  "date": "2026-10-16",
+  "source": {
+    "url": "https://github.com/google/skills_lint.dart.git",
+    "path": [
+      "packages/skills_lint/skills/skills-lint-setup",
+      "packages/skills_lint/skills/skills-lint-validation"
+    ]
+  }
+}

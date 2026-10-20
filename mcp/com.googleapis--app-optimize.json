@@ -1,0 +1,13 @@
+{
+  "serverId": "com.googleapis/app-optimize",
+  "date": "2026-10-16",
+  "metadata": {
+    "name": "App Optimize API",
+    "description": "Google-managed remote MCP server for the App Optimize API, letting AI agents create, list, read and delete cost reports for Google Cloud applications."
+  },
+  "selfPublished": true,
+  "config": {
+    "url": "https://appoptimize.googleapis.com/mcp",
+    "type": "streamable-http"
+  }
+}
