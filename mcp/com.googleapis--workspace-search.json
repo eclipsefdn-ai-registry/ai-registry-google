@@ -1,0 +1,13 @@
+{
+  "serverId": "com.googleapis/workspace-search",
+  "date": "2026-10-30",
+  "metadata": {
+    "name": "Google Workspace Universal Search",
+    "description": "Google-managed remote MCP server that lets AI agents search across Google Workspace."
+  },
+  "selfPublished": true,
+  "config": {
+    "url": "https://workspacemcp.googleapis.com/mcp/v1",
+    "type": "streamable-http"
+  }
+}

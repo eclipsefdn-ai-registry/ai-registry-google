@@ -1,0 +1,8 @@
+{
+  "skillId": "io.github.google-merchant-api-samples",
+  "date": "2026-10-30",
+  "source": {
+    "url": "https://github.com/google/merchant-api-samples.git",
+    "path": "agent-skills/mapi-developer-assistant"
+  }
+}

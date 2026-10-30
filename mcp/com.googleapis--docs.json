@@ -1,0 +1,13 @@
+{
+  "serverId": "com.googleapis/docs",
+  "date": "2026-10-30",
+  "metadata": {
+    "name": "Google Docs",
+    "description": "Google-managed remote MCP server for Google Docs, letting AI agents read and update documents."
+  },
+  "selfPublished": true,
+  "config": {
+    "url": "https://docsmcp.googleapis.com/mcp/v1",
+    "type": "streamable-http"
+  }
+}
