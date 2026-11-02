@@ -1,0 +1,13 @@
+{
+  "serverId": "com.googleapis/slides",
+  "date": "2026-10-30",
+  "metadata": {
+    "name": "Google Slides",
+    "description": "Google-managed remote MCP server for Google Slides, letting AI agents read and edit presentations."
+  },
+  "selfPublished": true,
+  "config": {
+    "url": "https://slidesmcp.googleapis.com/mcp/v1",
+    "type": "streamable-http"
+  }
+}

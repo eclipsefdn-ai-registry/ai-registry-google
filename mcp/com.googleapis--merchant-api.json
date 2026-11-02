@@ -1,0 +1,13 @@
+{
+  "serverId": "com.googleapis/merchant-api",
+  "date": "2026-10-30",
+  "metadata": {
+    "name": "Merchant API MCP Access Service",
+    "description": "Google-managed remote MCP server giving AI agents authorized access to Merchant Center data and limited write actions through the Merchant API."
+  },
+  "selfPublished": true,
+  "config": {
+    "url": "https://merchantapi.googleapis.com/mcp",
+    "type": "streamable-http"
+  }
+}

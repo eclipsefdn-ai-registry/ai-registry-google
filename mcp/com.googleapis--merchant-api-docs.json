@@ -1,0 +1,13 @@
+{
+  "serverId": "com.googleapis/merchant-api-docs",
+  "date": "2026-10-30",
+  "metadata": {
+    "name": "Merchant API Docs MCP",
+    "description": "Google-managed remote MCP server that answers questions from official Merchant API documentation and code samples, including Content API migration."
+  },
+  "selfPublished": true,
+  "config": {
+    "url": "https://merchantapi.googleapis.com/devdocs/mcp/",
+    "type": "streamable-http"
+  }
+}

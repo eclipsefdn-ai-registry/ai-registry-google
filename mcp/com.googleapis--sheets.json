@@ -1,0 +1,13 @@
+{
+  "serverId": "com.googleapis/sheets",
+  "date": "2026-10-30",
+  "metadata": {
+    "name": "Google Sheets",
+    "description": "Google-managed remote MCP server for Google Sheets, letting AI agents read and edit spreadsheets."
+  },
+  "selfPublished": true,
+  "config": {
+    "url": "https://sheetsmcp.googleapis.com/mcp/v1",
+    "type": "streamable-http"
+  }
+}
