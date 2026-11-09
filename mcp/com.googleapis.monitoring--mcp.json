@@ -1,5 +1,5 @@
 {
-  "serverId": "com.googleapis/cloud-monitoring",
+  "serverId": "com.googleapis.monitoring/mcp",
   "date": "2026-09-18",
   "metadata": {
     "name": "Cloud Monitoring",

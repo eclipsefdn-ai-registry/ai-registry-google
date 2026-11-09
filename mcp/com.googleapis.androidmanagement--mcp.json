@@ -1,5 +1,5 @@
 {
-  "serverId": "com.googleapis/android-management",
+  "serverId": "com.googleapis.androidmanagement/mcp",
   "date": "2026-09-18",
   "metadata": {
     "name": "Android Management API",
