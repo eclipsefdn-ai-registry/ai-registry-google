@@ -1,5 +1,5 @@
 {
-  "serverId": "com.googleapis/firestore",
+  "serverId": "com.googleapis.firestore/mcp",
   "date": "2026-09-18",
   "metadata": {
     "name": "Firestore",

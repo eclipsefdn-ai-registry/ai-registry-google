@@ -1,5 +1,5 @@
 {
-  "serverId": "com.googleapis/gke",
+  "serverId": "com.googleapis.container/mcp",
   "date": "2026-09-18",
   "metadata": {
     "name": "GKE",
