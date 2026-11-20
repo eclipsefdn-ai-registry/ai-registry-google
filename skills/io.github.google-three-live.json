@@ -1,0 +1,8 @@
+{
+  "skillId": "io.github.google-three-live",
+  "date": "2026-11-20",
+  "source": {
+    "url": "https://github.com/google/three-live.git",
+    "path": "skills/three-live-authoring"
+  }
+}

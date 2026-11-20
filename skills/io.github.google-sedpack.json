@@ -1,0 +1,8 @@
+{
+  "skillId": "io.github.google-sedpack",
+  "date": "2026-11-20",
+  "source": {
+    "url": "https://github.com/google/sedpack.git",
+    "path": "src/sedpack/.agents/skills/sedpack"
+  }
+}

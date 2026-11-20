@@ -1,0 +1,13 @@
+{
+  "serverId": "com.googleapis/capacity-planner",
+  "date": "2026-11-20",
+  "metadata": {
+    "name": "Capacity Planner",
+    "description": "Google-managed remote MCP server for Capacity Planner, letting AI agents query Google Cloud usage histories, usage forecasts and reservations."
+  },
+  "selfPublished": true,
+  "config": {
+    "url": "https://capacityplanner.googleapis.com/mcp",
+    "type": "streamable-http"
+  }
+}
