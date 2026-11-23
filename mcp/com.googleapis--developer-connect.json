@@ -1,0 +1,13 @@
+{
+  "serverId": "com.googleapis/developer-connect",
+  "date": "2026-11-20",
+  "metadata": {
+    "name": "Developer Connect",
+    "description": "Google-managed remote MCP server for Developer Connect, letting AI agents manage Git provider connections and repository links and read commits, diffs and pull requests through them."
+  },
+  "selfPublished": true,
+  "config": {
+    "url": "https://developerconnect.googleapis.com/mcp",
+    "type": "streamable-http"
+  }
+}

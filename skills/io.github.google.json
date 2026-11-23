@@ -8,7 +8,8 @@
       "skills/analytics/*",
       "skills/cloud/*",
       "skills/developers/*",
-      "skills/identity/*"
+      "skills/identity/*",
+      "skills/platform-devices/litert-google-tensor"
     ]
   }
 }
